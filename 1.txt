@@ -3,7 +3,7 @@ particles
 
 photon
 meson
-electron
+positron
 muon
 taon
 neutrino
