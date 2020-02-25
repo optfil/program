@@ -1,5 +1,10 @@
-никнеймы
+particles
 ==================
 
-___xxxNAGIBATORxxx___
-UR0B0R0SSS
+photon
+meson
+electron
+muon
+taon
+neutrino
+tau-neutrino
