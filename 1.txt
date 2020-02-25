@@ -7,4 +7,3 @@ electron
 muon
 taon
 neutrino
-tau-neutrino
