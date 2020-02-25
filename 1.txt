@@ -2,7 +2,7 @@ particles
 ==================
 
 photon
-meson-2
+mu-meson-2
 positron
 muon
 taon
